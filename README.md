@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a frontend developer from Ukraine 🇺🇦.
+Have a 6 years of development.
+Music and coffe lover ☕️ 🎧
+
+### Stats
+[GitHub Streak](https://streak-stats.demolab.com?user=alexalexdevio&theme=gruvbox&border_radius=4.5)
+
 <!--
 **alexalexdevio/alexalexdevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
