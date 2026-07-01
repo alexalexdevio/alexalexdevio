@@ -7,6 +7,10 @@ Music and coffe lover ☕️ 🎧
 ### Stats
 [GitHub Streak](https://streak-stats.demolab.com?user=alexalexdevio&theme=gruvbox&border_radius=4.5)
 
+### Socials
+[telegram]: https://t.me/alexalexlobanov
+[instagram]: https://www.instagram.com/alex.alex.lobanov/
+
 <!--
 **alexalexdevio/alexalexdevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
