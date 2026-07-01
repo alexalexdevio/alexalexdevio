@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm a frontend developer from Ukraine 🇺🇦.\n
-Have a 6 years of development.\n
+I'm a frontend developer from Ukraine 🇺🇦.
+Have a 6 years of development.
 Music and coffe lover ☕️ 🎧
 
 ### Stats
