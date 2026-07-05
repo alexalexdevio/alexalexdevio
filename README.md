@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a frontend developer from Ukraine 🇺🇦.
+I'm a frontend developer from Ukraine, Chernihiv city 🇺🇦.
 Have a 6 years of development.
 Music and coffe lover ☕️ 🎧
 
